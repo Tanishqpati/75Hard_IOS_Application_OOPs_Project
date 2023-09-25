@@ -1,0 +1,6 @@
+framework module Pods_75Hrd_Trainer {
+  umbrella header "Pods-75Hrd Trainer-umbrella.h"
+
+  export *
+  module * { export * }
+}
